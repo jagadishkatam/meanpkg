@@ -1,0 +1,18 @@
+Package: meanpkg
+Title: This package is used for creating functions for data summary
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Jagadish", "katam", , "jagadish.katam@gmail.com", role = c("aut", "cre"))
+  )
+Description: summarize the data.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    dplyr,
+    magrittr,
+    rlang
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
