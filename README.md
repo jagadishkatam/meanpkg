@@ -7,8 +7,8 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/meanpkg)](https://CRAN.R-project.org/package=meanpkg)
-[![Codecov test
-coverage](https://codecov.io/gh/jagadishkatam/meanpkg/graph/badge.svg)](https://app.codecov.io/gh/jagadishkatam/meanpkg)
+![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/meanpkg)
+
 <!-- badges: end -->
 
 The goal of meanpkg is to …
