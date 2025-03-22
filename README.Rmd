@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/meanpkg)](https://CRAN.R-project.org/package=meanpkg)
-[![Codecov test coverage](https://codecov.io/gh/jagadishkatam/meanpkg/graph/badge.svg)](https://app.codecov.io/gh/jagadishkatam/meanpkg)
+
 <!-- badges: end -->
 
 The goal of meanpkg is to ...
