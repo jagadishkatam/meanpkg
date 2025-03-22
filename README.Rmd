@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/meanpkg)](https://CRAN.R-project.org/package=meanpkg)
+![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/meanpkg)
 
 <!-- badges: end -->
 
